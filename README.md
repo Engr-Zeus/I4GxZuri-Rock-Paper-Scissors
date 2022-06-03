@@ -1,9 +1,11 @@
 # I4GxZuri-Rock-Paper-Scissors
 A game of Rock Paper Scissors 
-Task Title: Creating and Using [Local] Python Packages
+
+
+Task Topic: Creating and Using [Local] Python Packages
 Track - Full Time
-Course - Fullstack
-Created 30-05-2022 12:11:41
+ | Course - Fullstack
+ | Created 30-05-2022 12:11:41
 
 Guidelines for Submission:
 
